@@ -1,16 +1,16 @@
 {
     "name": "cs278/test-ansi",
     "license": "WTFPL",
-    "description": "\u001B]2;Test\uD83D\uDCA3\u0007\u001B[H\u001B[2J\u001B[3J\uD83D\uDCA3\u001B[4294967295;b\b",
+    "description": "\u001B]2;Test\uD83D\uDCA3\u0007\u001B[H\u001B[2J\u001B[3J\uD83D\uDCA3\u001B[1000;b\b",
     "type": "metapackage",
     "authors": [
-        {"name": "\u001B]2;Test\uD83D\uDCA3\u0007\u001B[H\u001B[2J\u001B[3J\uD83D\uDCA3\u001B[4294967295;b\b", "email": "test@example.com"}
+        {"name": "\u001B]2;Test\uD83D\uDCA3\u0007\u001B[H\u001B[2J\u001B[3J\uD83D\uDCA3\u001B[1000;b\b", "email": "test@example.com"}
     ],
-    "homepage": "http://example.com/?\u001B]2;Test\uD83D\uDCA3\u0007\u001B[H\u001B[2J\u001B[3J\uD83D\uDCA3\u001B[4294967295;b\b",
+    "homepage": "http://example.com/?\u001B]2;Test\uD83D\uDCA3\u0007\u001B[H\u001B[2J\u001B[3J\uD83D\uDCA3\u001B[1000;b\b",
     "support": {
-        "docs": "http://example.com/?\u001B]2;Test\uD83D\uDCA3\u0007\u001B[H\u001B[2J\u001B[3J\uD83D\uDCA3\u001B[4294967295;b\b"
+        "docs": "http://example.com/?\u001B]2;Test\uD83D\uDCA3\u0007\u001B[H\u001B[2J\u001B[3J\uD83D\uDCA3\u001B[1000;b\b"
     },
     "funding": [
-        {"type": "other", "url": "http://example.com/?\u001B]2;Test\uD83D\uDCA3\u0007\u001B[H\u001B[2J\u001B[3J\uD83D\uDCA3\u001B[4294967295;b\b"}
+        {"type": "other", "url": "http://example.com/?\u001B]2;Test\uD83D\uDCA3\u0007\u001B[H\u001B[2J\u001B[3J\uD83D\uDCA3\u001B[1000;b\b"}
     ]
 }
