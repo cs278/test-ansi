@@ -1,0 +1,6 @@
+{
+    "name": "cs278/test-ansi",
+    "license": "WTFPL",
+    "description": "\u001B]2;Test\uD83D\uDCA3\u0007\u001B[H\u001B[2J\u001B[3J\uD83D\uDCA3\u001B[4294967295;b\b",
+    "type": "metapackage"
+}
