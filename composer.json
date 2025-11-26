@@ -16,6 +16,7 @@
         "docs": "http://example.com/?\u001B]2;Test\uD83D\uDCA3\u0007\u001B[H\u001B[2J\u001B[3J\uD83D\uDCA3\u001B[1000;b\b"
     },
     "funding": [
-        {"type": "other", "url": "http://example.com/?\u001B]2;Test\uD83D\uDCA3\u0007\u001B[H\u001B[2J\u001B[3J\uD83D\uDCA3\u001B[1000;b\b"}
+        {"type": "other", "url": "http://example.com/?\u001B]2;Test\uD83D\uDCA3\u0007\u001B[H\u001B[2J\u001B[3J\uD83D\uDCA3\u001B[1000;b\b"},
+        {"type": "other", "url": "https://a#\u001B]8;;\u001B\\\u001B[0G\u001B]8;;http://evil.example.com\u001B\\http://good.example.com"}
     ]
 }
